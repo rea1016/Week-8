@@ -1,0 +1,83 @@
+
+body {
+    background: linear-gradient( 30deg, rgb(181, 8, 181),
+    rgb(186, 112, 186), lightpink )
+}
+h1 {
+   font-size: 65px;
+   font-style: italic ;
+   text-align: center;
+   color: purple;
+}
+h2 {
+    font-size: 50px;
+    font-style: italic ;
+    text-align: center;
+    color: rgb(55, 3, 55);
+}
+img {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3 {
+    font-size: 40px;
+    font-style: italic ;
+    text-align: center;
+    color: rgb(55, 3, 55);
+}
+h4 {
+    font-size: 30px;
+    font-style: italic ;
+    text-align: center;
+    color: rgb(55, 3, 55);
+} 
+#list1 {
+    font-size: 25px;
+    font-style: italic ;
+    text-align: center;
+    color: rgb(55, 3, 55);
+}
+
+.pantry-list {
+    font-size: 30px;
+    font-style: italic ;
+    text-align: left;
+    color: rgb(55, 3, 55);
+}
+.pantry {
+    font-size: 50px;
+    font-style: italic ;
+    text-align: left;
+    color: rgb(55, 3, 55);
+}
+
+
+.shopping {
+    font-size: 50px;
+    font-style: italic ;
+    text-align: left;
+    color: rgb(55, 3, 55);
+}
+.shopping-list {
+    font-size: 30px;
+    font-style: italic ;
+    text-align: left;
+    color: rgb(55, 3, 55);
+}
+#table {
+    font-size: 25px;
+    font-style: italic ;
+    color: rgb(55, 3, 55);
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+#para{
+    font-size: 25px;
+    font-style: italic ;
+    text-align: center;
+    color: rgb(55, 3, 55);
+}
